@@ -155,5 +155,3 @@ the following:
 - Introduce recommendations from the App on places to go based correlation
   between tweets and venues.
 - Analyse trends in movement of twitter users over time. 
-
-
