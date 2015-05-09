@@ -6,8 +6,6 @@ Final Project at Makers Academy
 Climate](https://codeclimate.com/github/ejbyne/hipspot/badges/gpa.svg)](https://codeclimate.com/github/ejbyne/hipspot) [![Test
 Coverage](https://codeclimate.com/github/ejbyne/hipspot/badges/coverage.svg)](https://codeclimate.com/github/ejbyne/hipspot)
 
-[Link to Final Product](www.hipspot.uk)
-
 ###Brief
 
 Our cohort has been split into groups and each assigned a two week project of our
